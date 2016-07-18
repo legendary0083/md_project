@@ -6,8 +6,8 @@
 ***ARM gets royalties when clients such as Apple, Samsung or Qualcomm adopt its designs, which are considered power-saving and efficient. Photographer: Ian Waldie/Bloomberg***
 
 -----------
-* Masayoshi Son will get a steady, high-margin cash stream*
-* SoftBank to secure a leader in global mobile computing*
+* Masayoshi Son will get a steady, high-margin cash stream
+* SoftBank to secure a leader in global mobile computing
 
 SoftBank Group Corp. agreed to buy ARM Holdings Plc for 24.3 billion pounds ($32 billion), securing a slice of virtually every mobile computing gadget on the planet and future connected devices in th  home.
 
