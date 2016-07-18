@@ -1,5 +1,7 @@
 # `When Bank Capital Standards Aren't Actually That Standard`
 
+> A Federal Reserve working paper shows a wide variation in the way banking rules are implemented across jurisdictions.
+
 Fifty shades of banking regulation might not sound very titillating. Perhaps it should be.
 
 A new Federal Reserve working paper lays bare the degree to which ostensibly black-and-white rules set by the Basel Committee on Banking Supervision differ in their implementation.
